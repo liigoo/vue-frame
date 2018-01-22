@@ -6,7 +6,7 @@ import Full2 from '@/containers/Full2'
 
 import Buttons from '@/views/components/Buttons'
 //Views - views
-import test from '@/views/vuetest'
+import test from '@/views/test'
 
 // Views - Pages
 import Page404 from '@/views/errorPages/Page404'
